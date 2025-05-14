@@ -45,6 +45,8 @@ export default function PaymentSchemePage() {
   }
 
 
+  // console.log(paymentData)
+
 
   // Filter data based on active tab
   const getFilteredData = () => {
